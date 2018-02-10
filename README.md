@@ -1,2 +1,2 @@
 # laravel-social-network
-A socoal network built in Laravel 5.5
+A social network built in Laravel 5.5
