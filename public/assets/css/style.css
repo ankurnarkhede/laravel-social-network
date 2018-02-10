@@ -1,0 +1,55 @@
+
+
+
+.active0{
+	background-color: #b6b6b6 !important;
+
+}
+
+.float_r{
+	float: right;
+}
+
+
+.text_wrap{
+	white-space: pre-wrap !important;
+	word-wrap: break-word !important;
+}
+
+.side_nav_width{
+	width: 240px;
+}
+
+.bottom0{
+	margin-bottom: 0px !important;
+}
+
+.text_center{
+	text-align: center !important;
+}
+
+.top_5px{
+	margin-top: 5px;
+}
+
+.card_font
+{
+	font-size: 170% !important;
+}
+
+.timestamp{
+	font-weight: normal !important;
+	margin: 2% 0 0 0 !important;
+}
+
+.post_action{
+	margin-left: 20px !important;
+	cursor: pointer !important;
+}
+
+
+
+
+
+
+
